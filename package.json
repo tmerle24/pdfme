@@ -1,0 +1,15 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@pdfme/common": "^3.1.5",
+    "@pdfme/generator": "^3.1.5",
+    "@pdfme/ui": "^3.1.5"
+  }
+}
